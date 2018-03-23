@@ -1,0 +1,26 @@
+{
+  "name": "myGeoBeerMapTest",
+  "version": "1.0.0",
+  "description": "Test repo to check out bleeding edge build tools.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devNoiseConsulting/myGeoBeerMapTest.git"
+  },
+  "keywords": [],
+  "author": "Michael J. FLynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devNoiseConsulting/myGeoBeerMapTest/issues"
+  },
+  "homepage": "https://github.com/devNoiseConsulting/myGeoBeerMapTest#readme",
+  "devDependencies": {
+    "webpack": "^4.2.0",
+    "webpack-cli": "^2.0.12"
+  }
+}
